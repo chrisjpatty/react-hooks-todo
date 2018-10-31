@@ -3,8 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0"
+    "emotion": "^9.2.12",
+    "local-storage": "^1.4.2",
+    "normalize.css": "^8.0.0",
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0",
+    "react-emotion": "^9.2.12",
+    "shortid": "^2.2.13"
   },
   "devDependencies": {
     "react-scripts": "2.1.0"
